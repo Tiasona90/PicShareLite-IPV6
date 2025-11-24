@@ -20,16 +20,6 @@ IPv6直连访问：无需复杂配置，自动生成公网访问链接
 客户端：打开链接，输入相册名，浏览标记喜欢照片，下载原图
 回收成果：在"被标记的照片"文件夹查看客户选择
 
-相册根目录/
-├── 客户A婚礼/                 # 相册文件夹
-│   ├── DSC_001.CR2          # RAW原始文件
-│   ├── DSC_002.jpg          # JPEG文件
-│   └── ...
-├── 被标记的照片/              # 自动汇总客户选择
-│   └── 客户A婚礼/
-│       ├── DSC_001.CR2      # 客户标记的照片副本
-│       └── ...
-└── ._preview_ipv6_opt/      # 预览图缓存（自动生成）
 
 Key Features
 Professional selection experience: iOS-style modern interface that enhances brand image
